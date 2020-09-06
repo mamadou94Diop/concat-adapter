@@ -116,7 +116,7 @@ class News(
                             "Le Nord, le Bas-Rhin, la Seine-Maritime, la Côte-d’Or – quatre départements qui comptent des agglomérations importantes, la métropole de Lille, Rouen, Le Havre, Strasbourg, Dijon –, les deux départements de Corse (Corse-du-Sud et Haute-Corse) et l’île de La Réunion sont concernés par ces nouvelles mesures.",
                     "Santé",
                     true,
-                    ""
+                    "https://i.f1g.fr/media/cms/616x347_crop/2020/09/06/9385d65001f5fa1dbcad5ac6cbf8c97645406ec77beeb6130efc8877ea7be2d9.jpeg"
                 )
             )
         }

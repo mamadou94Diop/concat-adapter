@@ -40,8 +40,6 @@ class NewsAdapter(private val news: List<News>) :
             val topic: TextView =
                 itemView.findViewById(R.id.topic)
             topic.text = news.topic
-
-
         }
 
     }
